@@ -1,0 +1,26 @@
+{
+    "name": "saysa/observer",
+    "description": "PHP POO - Design Pattern - Observer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Saysa",
+            "email": "sbo@conamed.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Saysa\\Observer\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Saysa\\Observer\\Tests\\": "tests"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
