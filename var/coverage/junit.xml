@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="" tests="1" assertions="2" errors="0" warnings="0" failures="0" skipped="0" time="0.022229">
+    <testsuite name="unit" tests="1" assertions="2" errors="0" warnings="0" failures="0" skipped="0" time="0.022229">
+      <testsuite name="Saysa\Observer\Tests\EventDispatcherTest" file="/Users/saysa/Sites/observer/tests/EventDispatcherTest.php" tests="1" assertions="2" errors="0" warnings="0" failures="0" skipped="0" time="0.022229">
+        <testcase name="testIdDispatchIsSuccessful" class="Saysa\Observer\Tests\EventDispatcherTest" classname="Saysa.Observer.Tests.EventDispatcherTest" file="/Users/saysa/Sites/observer/tests/EventDispatcherTest.php" line="14" assertions="2" time="0.022229"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>
